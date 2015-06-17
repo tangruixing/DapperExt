@@ -8,5 +8,6 @@ namespace KMS
 {
     public class Class1
     {
+        
     }
 }
