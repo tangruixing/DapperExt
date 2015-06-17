@@ -1,0 +1,5 @@
+D:\github\DapperExt\Brisk\Core\Brisk.Core\obj\Debug\Brisk.Core.csprojResolveAssemblyReference.cache
+D:\github\DapperExt\Brisk\Core\Brisk.Core\bin\Debug\Brisk.Core.dll
+D:\github\DapperExt\Brisk\Core\Brisk.Core\bin\Debug\Brisk.Core.pdb
+D:\github\DapperExt\Brisk\Core\Brisk.Core\obj\Debug\Brisk.Core.dll
+D:\github\DapperExt\Brisk\Core\Brisk.Core\obj\Debug\Brisk.Core.pdb
