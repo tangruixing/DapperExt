@@ -39,6 +39,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DapperExtensions\DapperExtensions.cs" />
+    <Compile Include="DapperExtensions\DapperExtensionsConfiguration.cs" />
+    <Compile Include="DapperExtensions\DapperImplementor.cs" />
+    <Compile Include="DapperExtensions\Database.cs" />
+    <Compile Include="DapperExtensions\GetMultiplePredicate.cs" />
+    <Compile Include="DapperExtensions\GetMultipleResult.cs" />
+    <Compile Include="DapperExtensions\Mapper\AutoClassMapper.cs" />
+    <Compile Include="DapperExtensions\Mapper\ClassMapper.cs" />
+    <Compile Include="DapperExtensions\Mapper\PluralizedAutoClassMapper.cs" />
+    <Compile Include="DapperExtensions\Mapper\PropertyMap.cs" />
+    <Compile Include="DapperExtensions\Predicates.cs" />
+    <Compile Include="DapperExtensions\ReflectionHelper.cs" />
+    <Compile Include="DapperExtensions\Sql\MySqlDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\PostgreSqlDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\SqlCeDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\SqlDialectBase.cs" />
+    <Compile Include="DapperExtensions\Sql\SqlGenerator.cs" />
+    <Compile Include="DapperExtensions\Sql\SqliteDialect.cs" />
+    <Compile Include="DapperExtensions\Sql\SqlServerDialect.cs" />
     <Compile Include="Dapper\SqlMapper.cs" />
     <Compile Include="Dapper\SqlMapperAsync.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

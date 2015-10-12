@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DapperExtensions.Sql
+namespace Brisk.Core
 {
     public class SqliteDialect : SqlDialectBase
     {

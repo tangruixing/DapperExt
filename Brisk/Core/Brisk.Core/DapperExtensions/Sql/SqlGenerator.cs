@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using DapperExtensions.Mapper;
 
-namespace DapperExtensions.Sql
+namespace Brisk.Core
 {
     public interface ISqlGenerator
     {

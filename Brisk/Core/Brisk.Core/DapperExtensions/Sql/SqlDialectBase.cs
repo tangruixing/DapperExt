@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DapperExtensions.Sql
+namespace Brisk.Core
 {
     public interface ISqlDialect
     {
